@@ -1,0 +1,82 @@
+1629479348387	geckodriver	INFO	Listening on 127.0.0.1:10587
+1629479351414	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofilejP2vj8"
+1629479352285	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1629479354216	Marionette	INFO	Listening on port 1052
+1629479354651	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1629479418751	Marionette	INFO	Stopped listening on port 1052
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629479424970	geckodriver	INFO	Listening on 127.0.0.1:1061
+1629479428003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofileKZxvHj"
+1629479428362	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1629479430101	Marionette	INFO	Listening on port 1110
+1629479430166	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1629479439279	Marionette	INFO	Stopped listening on port 1110
+1629479457080	geckodriver	INFO	Listening on 127.0.0.1:1061
+1629479460105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofilehkMHAg"
+1629479460395	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1629479462146	Marionette	INFO	Listening on port 31299
+1629479462258	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1629479475157	Marionette	INFO	Stopped listening on port 31299
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629479924569	geckodriver	INFO	Listening on 127.0.0.1:1059
+1629479927600	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofileT0xs4N"
+1629479927891	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1629479929647	Marionette	INFO	Listening on port 1090
+1629479929756	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1629479936981	Marionette	INFO	Stopped listening on port 1090
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629480074749	geckodriver	INFO	Listening on 127.0.0.1:6439
+1629480077765	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofileLKIXlw"
+1629480078061	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1629480079793	Marionette	INFO	Listening on port 1081
+1629480079812	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1629480083718	Marionette	INFO	Stopped listening on port 1081
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629480477453	geckodriver	INFO	Listening on 127.0.0.1:1059
+1629480480471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofiles3OnxY"
+1629480480765	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1629480482705	Marionette	INFO	Listening on port 1085
+1629480483125	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1629480489087	Marionette	INFO	Stopped listening on port 1085
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629480505688	geckodriver	INFO	Listening on 127.0.0.1:27541
+1629480508713	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofileKhtYmz"
+1629480509003	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1629480510867	Marionette	INFO	Listening on port 1086
+1629480510877	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1629480519369	Marionette	INFO	Stopped listening on port 1086
+1629481599824	geckodriver	INFO	Listening on 127.0.0.1:1125
+1629481602853	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofileEAhAuk"
+1629481603142	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1629481604896	Marionette	INFO	Listening on port 1139
+1629481604984	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1629481609079	Marionette	INFO	Stopped listening on port 1139
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
